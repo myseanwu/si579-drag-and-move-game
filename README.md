@@ -8,7 +8,9 @@
 
 ### Restart button
 > If failed, press Restart game button and the game will restart with different obstacles.
+> 
 > If won, your score/time will be recorded in the down-left block. Also, your best score will be shown in the upper-right block.
+> 
 > You can play as many times as  possible, using restart button.
 > 
 
